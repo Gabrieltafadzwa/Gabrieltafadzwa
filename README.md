@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Gabrieltafadzwa
+- 👀 I’m interested in programming and hacking ...
+- 🌱 I’m currently learning at waddilove...
+- 📫 How to reach me email me at gabrielmudyanadzo@gmail.com...
+
+<!---
+Gabrieltafadzwa/Gabrieltafadzwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
